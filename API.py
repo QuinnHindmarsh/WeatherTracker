@@ -1,6 +1,6 @@
 #all storeage
 
-API_key = "9260214047b5d89e7d6e52cc279d5175"
+API_key = "removed for privacy reasons"
 base_url = "https://api.openweathermap.org/data/2.5/weather?q={city_name},{country_code}&appid={APIkey}"
 remove_list = ['feels_like', 'pressure', 'humidity']
 
